@@ -1,0 +1,28 @@
+{
+  "name": "com.ha.frk.lovelace.card.modder",
+  "displayName": "Home Assistant Forked Component Lovelace Card Modder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "keywords": [
+    "ha",
+    "home_assistant",
+    "lovelace"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grittisemper/frk-lovelace-card-modder.git"
+  },
+
+  "engines": {
+    "node": ">=0.10.0"
+  },
+
+  "author": "",
+  "license": "MIT"
+}
